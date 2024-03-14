@@ -1,0 +1,12 @@
+ body {
+        height: 100vh;
+
+        background: linear-gradient(
+            rgba(29, 38, 113, 0.8),
+            rgba(195, 55, 100, 0.8)
+          ),
+          url("images/dc-Cover-tulfhato72nn1db73rnlpq5fu1-20171203094456.Medi.jpeg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
